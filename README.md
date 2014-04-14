@@ -8,4 +8,4 @@ to be at all useful, you'll need to get [Docker](https://www.docker.io/) and [Fi
 
 notes/current status
 --------------------
-As a base for a scipy/numpy/pandas system, this all works fine, though the actual ipython notebook server is falls over when it tries to test the connection via its heartbeat mechanism.
+As a base for a scipy/numpy/pandas system, this all works fine, though the actual ipython notebook server falls over when it tries to test the connection via its heartbeat mechanism.
